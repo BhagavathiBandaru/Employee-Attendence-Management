@@ -17,4 +17,10 @@ Signup page
 Details 
 Employee login 
 Verify (local storage) 
-logout
+logout Frame work 
+
+Languages Environment:-
+HTML,CSS, BO0TSTRAP,JAVASCRIPT
+other:-Fontawaosome icons,Color picker,Unsplash.com animation
+
+
